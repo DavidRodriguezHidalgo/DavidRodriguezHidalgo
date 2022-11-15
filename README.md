@@ -2,7 +2,7 @@
 
 My name is David. I'm a Fullstack developer. 
 
-- 🔭 I’m currently working on Camaloon
+- 🔭 I’m currently working on Factorial
 - 🌱 I’m currently learning Golang
 
 📫 How to reach me: 
